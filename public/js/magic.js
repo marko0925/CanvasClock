@@ -1,3 +1,6 @@
+  //SALUDO
+  console.log("Made by Marlon coronel http://www.facebook.com/marlon.coronel");
+  
   //VARIABLES GLOBALES
         var months = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"];
         var days = ["Dom", "Lun", "Mar", "Mie", "Jue", "Vie", "Sab"];
