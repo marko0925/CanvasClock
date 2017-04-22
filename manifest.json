@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name" :"Modern-clock",
+    "version" : "1.0.0",
+    "description" : "Modern clock made on canvas konva library",
+    "browser_action":{
+        "default_icon":"public/img/hourglass.png",
+        "default_popup":"reloj.html",
+        "default_title":"Clock"
+    },
+    "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/",
+    "http://api.openweathermap.org/*" 
+    ]
+}
